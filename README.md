@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Marmika Pimparkar  
+# 👋 Hello, I'm Marmika Pimparkar  
 
 🎓 Final-year BCA Student | 📊 Aspiring Data Analyst & Business Analyst | 💡 Learning by Practicing  
 
