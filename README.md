@@ -24,11 +24,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marmikapimparkar&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marmikapimparkar&layout=compact&theme=radical)  
-
----
 
 ## 🌐 Connect with Me
 - 💼 [LinkedIn]( www.linkedin.com/in/marmika-pimparkar-65865a277)  
